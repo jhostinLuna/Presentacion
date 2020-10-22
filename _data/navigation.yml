@@ -1,8 +1,11 @@
-- name: Presentación
+- name: Inicio
   link: /
 
-- name: Proyectos
-  link: proyectos.html
+- name: Sobre mi
+  link: /proyectos.html
 
 - name: Contacto
-  link: contacto.html
+  link: /contacto.html
+
+
+  
